@@ -1,5 +1,6 @@
 package main
 
+// пробую просто комент для Git sda
 import (
 	"fmt"
 )
